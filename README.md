@@ -1,0 +1,1 @@
+This repository contains a simple C program that demonstrates a division by zero error. The solution shows how to prevent this error by checking for zero before performing the division. The code is commented and easy to understand.  Feel free to use it as a learning resource.
